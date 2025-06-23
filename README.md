@@ -19,6 +19,8 @@ An AI-powered resume screening tool built in Python + Streamlit. Upload resumes,
 
 ## ▶️ How to Run
 
+just check out my portfolio from where you can test it live 
+
 ```bash
 pip install -r requirements.txt
 streamlit run resumetester.py
